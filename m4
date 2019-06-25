@@ -1,4 +1,6 @@
-fbgfknfvbcnmncvbkxm
+<<<<<<< HEAD
 
 
 hi helo how are u
+=======
+>>>>>>> hotfix
